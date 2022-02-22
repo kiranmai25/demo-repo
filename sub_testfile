@@ -2,7 +2,6 @@ import unittest
   
 class SimpleTest(unittest.TestCase):
   
-    # Returns True or False. 
-    def test(self):        
-        self.assertTrue(True)
+    def test_sub(self):        
+        self.assertEqual(20,20)
   
