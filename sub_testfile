@@ -1,4 +1,4 @@
-# Python code to demonstrate working of unittest
+
 import unittest
   
 class TestStringMethods(unittest.TestCase):
