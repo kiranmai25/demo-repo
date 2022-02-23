@@ -1,6 +1,6 @@
-def char (c):
+def ex_func (c):
     str = c
     print(str)
 
 
-char('aaaa')
+ex_func('aaaa')
