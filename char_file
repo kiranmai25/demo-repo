@@ -1,0 +1,6 @@
+def ex_func (c):
+    str = c
+    print(str)
+
+
+ex_func('aaaa')
