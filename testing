@@ -1,6 +1,0 @@
-import unittest
-import char_file
-
-class TestStringMethods(unittest.TestCase):
-    def testStr(self):
-        self.assertEqual(char_file.ex_func('aaaa'),'aaaa')
