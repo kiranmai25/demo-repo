@@ -1,5 +1,6 @@
-def test_make_integer(float_number):
+import unittest
+import char_file
 
-    #Tests whether 'make_integer' outputs integers
-  
-    assert type(make_integer(float_number)) == int
+class TestStringMethods(unittest.TestCase):
+    def testStr(self):
+        self.assertEqual(char_file.ex_func('aaaa'),'aaaa')
