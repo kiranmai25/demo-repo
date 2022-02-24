@@ -1,5 +1,5 @@
 def test_make_integer(float_number):
-    """
-    Tests whether 'make_integer' outputs integers
-    """
+
+    #Tests whether 'make_integer' outputs integers
+  
     assert type(make_integer(float_number)) == int
