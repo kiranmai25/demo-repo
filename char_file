@@ -1,4 +1,4 @@
-#sample program
+#testing sample program
 
 def ex_func (c):
     str = c
