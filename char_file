@@ -1,6 +1,7 @@
-def make_integer(float_number):
-  
-    #Function to turn floats into integers.
-   
-    return int(float_number)
+def ex_func (c):
+    str = c
+    print(str)
+
+
+ex_func('aaasa')
 
