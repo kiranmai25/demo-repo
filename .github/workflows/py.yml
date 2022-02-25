@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  fortests:
 
     runs-on: ubuntu-latest
 
